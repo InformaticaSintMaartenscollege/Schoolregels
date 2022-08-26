@@ -43,6 +43,3 @@ bekeken. Maar uiteindelijk moet er toch een beslissing genomen worden. Ben je, o
 het dan nog niet met de beslissing eens, dan is er een officiële klachtenregeling. Deze
 klachtenregeling ligt op de administratie ter inzage en is bij de afdelingsleider te verkrijgen. Daarin
 staat hoe verder te handelen.
-
-
-![This is an image](https://www.studiediscipline.nl/category/achtergrond-en-introductie)
