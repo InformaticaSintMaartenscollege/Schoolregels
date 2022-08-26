@@ -1,7 +1,9 @@
 #De schoolregels
+
 De schoolregels zijn in twee groepen verdeeld: huisregels en gedragsregels.
 
 #Huisregels
+
 Een grote scholengemeenschap als het Schoonhovens College kan niet zonder huisregels.
 Zij zijn belangrijk voor een goede voortgang van de lessen en het fatsoenlijk gebruik van de
 gebouwen, het terrein en de voorzieningen. Verder moeten er ook regels zijn in verband met
@@ -12,6 +14,7 @@ Voorbeelden van huisregels zijn:
 • waar mag je wel/niet komen
 
 #Gedragsregels
+
 Gedragsregels zeggen iets over hoe wij met elkaar, met onze omgeving en met onszelf omgaan.
 Vele van die regels heb je al van huis uit meegekregen. Voorbeelden zijn: respect voor andermans
 eigendommen, respect voor andermans lichaam en respect voor je omgeving (bijv. je eigen rommel
