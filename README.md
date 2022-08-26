@@ -45,4 +45,4 @@ klachtenregeling ligt op de administratie ter inzage en is bij de afdelingsleide
 staat hoe verder te handelen.
 
 
-![This is an image](https://www.studiediscipline.nl/category/achtergrond-en-introductie/)
+![This is an image](https://www.studiediscipline.nl/category/achtergrond-en-introductie)
